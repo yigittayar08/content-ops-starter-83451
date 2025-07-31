@@ -20,7 +20,7 @@
         {
             "label": "Gallery",
             "altText": "Careers page",
-            "url": "/social",
+            "url": "/gallery",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
