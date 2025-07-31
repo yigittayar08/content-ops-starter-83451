@@ -28,7 +28,7 @@
         },
         {
             "label": "Contact",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "label": "Dropdown item",
