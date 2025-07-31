@@ -72,10 +72,10 @@
             "self": {
                 "borderRadius": "medium",
                 "padding": [
-                    "pt-11",
-                    "pl-11",
-                    "pb-11",
-                    "pr-11"
+                    "pt-1",
+                    "pl-1",
+                    "pb-1",
+                    "pr-1"
                 ]
             }
         }
