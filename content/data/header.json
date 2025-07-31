@@ -10,7 +10,7 @@
         },
         {
             "label": "Equipments",
-            "altText": "Blog",
+            "altText": "",
             "url": "/tech",
             "icon": "arrowRight",
             "iconPosition": "right",
