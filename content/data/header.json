@@ -23,7 +23,7 @@
         {
             "label": "Equipments",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/tech",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
