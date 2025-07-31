@@ -36,6 +36,16 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "altText": "",
+            "url": "/instagram.com/yigittayar",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
