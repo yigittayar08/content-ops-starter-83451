@@ -3,7 +3,7 @@ type: PageLayout
 title: Biography
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Devoted
     items:
       - type: FeaturedItem
         title: >-
