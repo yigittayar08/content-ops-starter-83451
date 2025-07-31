@@ -3,7 +3,7 @@ type: PageLayout
 title: Biography
 sections:
   - type: CarouselSection
-    subtitle: Devoted
+    subtitle: A life dedicated to the guitar
     items:
       - type: FeaturedItem
         title: >-
