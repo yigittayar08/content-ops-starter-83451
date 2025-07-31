@@ -19,7 +19,7 @@
         },
         {
             "label": "Gallery",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/gallery",
             "icon": "arrowRight",
             "iconPosition": "right",
