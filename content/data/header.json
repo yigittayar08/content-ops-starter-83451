@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Biography",
-            "url": "/pricing",
+            "url": "/bio",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
