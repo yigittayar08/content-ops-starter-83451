@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/ChatGPT Image 31 Tem 2025 10_06_36.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Biography",
