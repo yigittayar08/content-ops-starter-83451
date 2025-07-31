@@ -57,6 +57,17 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "label": "YouTube",
+            "altText": "YouTube",
+            "url": "/https://youtube.com/@yigittayar2573?si=SQFXG-LIVQDTHYy4",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
